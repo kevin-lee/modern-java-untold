@@ -1,0 +1,28 @@
+group 'cc.kevinlee'
+version '1.0'
+
+task wrapper(type: Wrapper) {
+  gradleVersion = '2.5'
+  distributionUrl = "https://services.gradle.org/distributions/gradle-$gradleVersion-all.zip"
+}
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+  mavenCentral()
+  maven {
+    url  "http://dl.bintray.com/kevinlee/maven"
+  }
+}
+
+dependencies {
+    compile 'cc.kevinlee:j8plus:0.0.15'
+    compile "org.projectlombok:lombok:1.16.4"
+
+    testCompile 'junit:junit:4.11'
+    testCompile 'org.assertj:assertj-core:3.0.0'
+    testCompile 'cc.kevinlee:test0ster1:0.0.6'
+}
