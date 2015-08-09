@@ -16,7 +16,7 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 (각편당 링크는 이 밑에 있습니다).
 
 ## 01. 모던 자바 - 못다한 이야기: 웨비나, 소개, 왜 배워야 하죠?
-[모던 자바 (자바8) Webinar]()
+<a href="https://youtu.be/8FnXom0eU2A" target="_blank">나는 프로그래머다 웨비너 - 자바8 깊숙히</a>
 
 <a href="https://youtu.be/mu9XfJofm8U" target="_blank">모던 자바 (자바8) - 못다한 이야기: - 00 소개영상</a>
 
