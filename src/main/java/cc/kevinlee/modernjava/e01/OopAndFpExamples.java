@@ -10,17 +10,19 @@ package cc.kevinlee.modernjava.e01;
 public class OopAndFpExamples {
 
   public static void main(final String[] args) {
-    final CalculatorService calculatorService = new CalculatorService(new Addition(), new Subtraction());
-    final int additionResult = calculatorService.calculate(11, 4);
+    final CalculatorService calculatorService =
+        new CalculatorService(new Addition(), new Subtraction(), new Multiplication(), new Division());
+
+    final int additionResult = calculatorService.add(11, 4);
     System.out.println(additionResult);
 
-    final int subtractionResult = calculatorService.calculate(11, 1);
+    final int subtractionResult = calculatorService.subtract(11, 1);
     System.out.println(subtractionResult);
 
-    final int multiplicationResult = calculatorService.calculate(11, 2);
+    final int multiplicationResult = calculatorService.multiply(11, 2);
     System.out.println(multiplicationResult);
 
-    final int divisionResult = calculatorService.calculate(20, 4);
+    final int divisionResult = calculatorService.divide(20, 4);
     System.out.println(divisionResult);
 
 
@@ -67,28 +69,48 @@ class Division implements Calculation {
 }
 
 class CalculatorService {
-  private final Calculation calculation;
-  private final Calculation calculation2;
+  private final Calculation addition;
+  private final Calculation subtraction;
+  private final Calculation multiplication;
+  private final Calculation division;
 
-  public CalculatorService(final Calculation calculation, final Calculation calculation2) {
-    this.calculation = calculation;
-    this.calculation2 = calculation2;
+  public CalculatorService(final Calculation addition, final Calculation subtraction, final Calculation multiplication, final Calculation division) {
+    this.addition = addition;
+    this.subtraction = subtraction;
+    this.multiplication = multiplication;
+    this.division = division;
   }
 
-  public int calculate(final int num1, final int num2) {
-    if (num1 > 10 && num2 < num1) {
-      return calculation.calculate(num1, num2);
-    } else {
-      throw new IllegalArgumentException("Invalid input num1: " + num1 + ", num2: " + num2);
-    }
+  public int add(final int num1, final int num2) {
+    if (num1 > 10 && num2 < num1) { // boilerplate code
+      return addition.calculate(num1, num2);
+    } else { // boilerplate code
+      throw new IllegalArgumentException("Invalid input num1: " + num1 + ", num2: " + num2); // boilerplate code
+    } // boilerplate code
   }
 
-  public int compute(final int num1, final int num2) {
-    if (num1 > 10 && num2 < num1) {
-      return calculation2.calculate(num1, num2);
-    } else {
-      throw new IllegalArgumentException("Invalid input num1: " + num1 + ", num2: " + num2);
-    }
+  public int subtract(final int num1, final int num2) {
+    if (num1 > 10 && num2 < num1) { // boilerplate code
+      return subtraction.calculate(num1, num2);
+    } else { // boilerplate code
+      throw new IllegalArgumentException("Invalid input num1: " + num1 + ", num2: " + num2); // boilerplate code
+    } // boilerplate code
+  }
+
+  public int multiply(final int num1, final int num2) {
+    if (num1 > 10 && num2 < num1) { // boilerplate code
+      return multiplication.calculate(num1, num2);
+    } else { // boilerplate code
+      throw new IllegalArgumentException("Invalid input num1: " + num1 + ", num2: " + num2); // boilerplate code
+    } // boilerplate code
+  }
+
+  public int divide(final int num1, final int num2) {
+    if (num1 > 10 && num2 < num1) { // boilerplate code
+      return division.calculate(num1, num2);
+    } else { // boilerplate code
+      throw new IllegalArgumentException("Invalid input num1: " + num1 + ", num2: " + num2); // boilerplate code
+    } // boilerplate code
   }
 }
 
