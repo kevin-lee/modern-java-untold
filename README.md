@@ -1,7 +1,8 @@
-# 모던 자바 (자바8) 못다한 이야기 - Modern Java (Java8) Untold
+# 모던 자바 (자바8) 못다한 이야기
+# Modern Java (Java8) Untold
 
 이곳은 제가 유튜브에 올리고 있는 모던 자바 영상에서 작성된 코드를
-정리하고 주석을 달아서 모아 놓은 리포지토리입니다.
+정리하고 주석을 달아서 모아 놓은 저장소입니다.
 
 앞으로 계속 업데이트 될 예정이니 직접 코드 작성을 하실 경우
 clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시는게 좋을것 같습니다.
@@ -9,7 +10,7 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 
 **모던 자바 - 못다한 이야기 영상 02~05까지는 볼륨이 좀 작습니다. 죄송합니다. 한번에 다 녹화해서 확인 못했습니다.**
 
-**중간에 작은 실수한거 수정도 못하고 올려서 5편 이후로는 볼륨 문제를 신경썼고, 6편부터는 녹화한 영상 미리 다 확인하고
+**중간에 작은 실수한거 수정도 못하고 올려서 5편 이후로는 볼륨 문제를 신경썼고, 7편부터는 녹화한 영상 미리 다 확인하고
 필요한 정보를 추가하거나 삭제하는 편집과정을 도입했습니다.**
 
 ## 나는 프로그래머다 웨비너
@@ -67,3 +68,15 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 
 <a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e07_functionalinterface_examples" target="_blank">관련 소스 (클릭!)</a>
 
+
+### 08. Stream API
+#### 08 - 01 시작하기전에
+<a href="https://youtu.be/nH5svoXpHQk" target="_blank">모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 01 시작하기전에</a>
+
+#### 08 - 02 Identity Function 예제
+<a href="https://youtu.be/PZVBTQph-5I" target="_blank">모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 02 Identity Function</a>
+
+#### 08 - 03 Stream API 01 - 무한 Collection
+<a href="https://youtu.be/oaKTK58qI30" targe="_blank">모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 01 - 무한 collection</a>
+
+더 추가될 예정입니다.

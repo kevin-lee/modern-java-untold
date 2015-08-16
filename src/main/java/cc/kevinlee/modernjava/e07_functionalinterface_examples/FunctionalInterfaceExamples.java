@@ -12,7 +12,7 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 
 /**
- * @author Lee, Seong Hyun (Kevin)
+ * @author Kevin Lee
  * @since 2015-08-08
  */
 public class FunctionalInterfaceExamples {
