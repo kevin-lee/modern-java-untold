@@ -79,4 +79,7 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 #### 08 - 03 Stream API 01 - 무한 Collection
 <a href="https://youtu.be/oaKTK58qI30" targe="_blank">모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 01 - 무한 collection</a>
 
+#### 08 - 03 Stream API 02 - Stream vs 예전방식
+<a href="https://youtu.be/fGpZFwxRvCA" targe="_blank">모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 02 - Stream vs 예전방식</a>
+
 더 추가될 예정입니다.
