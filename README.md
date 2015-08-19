@@ -14,7 +14,7 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 필요한 정보를 추가하거나 삭제하는 편집과정을 도입했습니다.**
 
 ## 나는 프로그래머다 웨비너
-<a href="https://youtu.be/8FnXom0eU2A" target="_blank">나는 프로그래머다 웨비너 - 자바8 깊숙히</a>
+<a href="https://youtu.be/lIEKOe0bh0M" target="_blank">나는 프로그래머다 웨비너 - 자바8 깊숙히 (무삭제 노모 유출 버전!)</a>
 
 
 ## 모던 자바 - 못다한 이야기
@@ -73,13 +73,25 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 #### 08 - 01 시작하기전에
 <a href="https://youtu.be/nH5svoXpHQk" target="_blank">모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 01 시작하기전에</a>
 
+<a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e08_01_stream_prelude" target="_blank">관련 소스 (클릭!)</a>
+
+
 #### 08 - 02 Identity Function 예제
 <a href="https://youtu.be/PZVBTQph-5I" target="_blank">모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 02 Identity Function</a>
+
+<a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e08_02_identity" target="_blank">관련 소스 (클릭!)</a>
+
 
 #### 08 - 03 Stream API 01 - 무한 Collection
 <a href="https://youtu.be/oaKTK58qI30" targe="_blank">모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 01 - 무한 collection</a>
 
+<a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e08_03_stream_01" target="_blank">관련 소스 (클릭!)</a>
+
+
 #### 08 - 03 Stream API 02 - Stream vs 예전방식
 <a href="https://youtu.be/fGpZFwxRvCA" targe="_blank">모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 02 - Stream vs 예전방식</a>
+
+<a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e08_03_stream_02" target="_blank">관련 소스 (클릭!)</a>
+
 
 더 추가될 예정입니다.
