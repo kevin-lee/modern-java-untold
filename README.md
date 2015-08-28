@@ -97,5 +97,6 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 #### 08 - 03 Stream API 03 - Stream API 03 - 기초
 <a href="https://youtu.be/KO0HWQ0vNRg" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03 - 기초" />모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03 - 기초</a>
 
+<a href="https://youtu.be/KtS6Hd_RuLQ" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03A - IDE 활용 팁" />모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03A - IDE 활용 팁</a>
 
 더 추가될 예정입니다.
