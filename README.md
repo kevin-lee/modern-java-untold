@@ -82,21 +82,30 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 <a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e08_02_identity" target="_blank">관련 소스 (클릭!)</a>
 
 
-#### 08 - 03 Stream API 01 - 무한 Collection
+#### 08 - 03 Stream API - 01 무한 Collection
 <a href="https://youtu.be/oaKTK58qI30" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) - 못다한 이야기: - 08 Stream API - 03 Stream API 01 - 무한 collection" /> 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 01 - 무한 collection</a>
 
 <a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e08_03_stream_01" target="_blank">관련 소스 (클릭!)</a>
 
 
-#### 08 - 03 Stream API 02 - Stream vs 예전방식
+#### 08 - 03 Stream API - 02 Stream vs 예전방식
 <a href="https://youtu.be/fGpZFwxRvCA" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) - 못다한 이야기: - 08 Stream API - 03 Stream API 02 - Stream vs 예전방식" /> 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 02 - Stream vs 예전방식</a>
 
 <a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e08_03_stream_02" target="_blank">관련 소스 (클릭!)</a>
 
 
-#### 08 - 03 Stream API 03 - Stream API 03 - 기초
-<a href="https://youtu.be/KO0HWQ0vNRg" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03 - 기초" />모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03 - 기초</a>
+#### 08 - 03 Stream API - 03 기초
+<a href="https://youtu.be/KO0HWQ0vNRg" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03 - 기초" /> 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03 - 기초</a>
 
-<a href="https://youtu.be/KtS6Hd_RuLQ" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03A - IDE 활용 팁" />모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03A - IDE 활용 팁</a>
+<a href="https://youtu.be/KtS6Hd_RuLQ" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03A - IDE 활용 팁" /> 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 03A - IDE 활용 팁</a>
+
+<a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e08_03_stream_03" target="_blank">관련 소스 (클릭!)</a>
+
+
+#### 08 - 03 Stream API - 04 좀더 실용적인 예
+<a href="https://youtu.be/UbUPMrCOHaQ" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 04 - 좀더 실용적인 예" /> 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 04 - 좀더 실용적인 예</a>
+
+<a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e08_03_stream_04" target="_blank">관련 소스 (클릭!)</a>
+
 
 더 추가될 예정입니다.
