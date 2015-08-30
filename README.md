@@ -108,4 +108,9 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 <a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e08_03_stream_04" target="_blank">관련 소스 (클릭!)</a>
 
 
+#### 08 - 03 Stream API - 05 병렬 프로그래밍 (Parallel Programming with ParallelStream)
+<a href="https://youtu.be/UxrP-e1Ujfo" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 05 - Parallel Programming (with ParallelStream)" /> 모던 자바 (자바8) 못다한 이야기 - 08 Stream API - 03 Stream API 05 - Parallel Programming (with ParallelStream)</a>
+
+<a href="https://github.com/Kevin-Lee/modern-java-untold/tree/master/src/main/java/cc/kevinlee/modernjava/e08_03_stream_05_parallel" target="_blank">관련 소스 (클릭!)</a>
+
 더 추가될 예정입니다.
