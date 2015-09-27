@@ -119,6 +119,11 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 
 <a href="http://openjdk.java.net/projects/code-tools/jmh/" target="_blank">JMH: 자바 성능 벤치마크툴 (클릭)</a>
 
+### 09. Closure
+
+<a href="https://youtu.be/pjtk7vvryio" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 09 Closure" /> 모던 자바 (자바8) 못다한 이야기 - 09 Closure</a>
+
+
 더 추가될 예정입니다.
 
 
