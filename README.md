@@ -121,7 +121,11 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 
 ### 09. Closure
 
-<a href="https://youtu.be/pjtk7vvryio" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 09 Closure" /> 모던 자바 (자바8) 못다한 이야기 - 09 Closure</a>
+<a href="https://youtu.be/pjtk7vvryio" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 09 - 01 Closure" /> 모던 자바 (자바8) 못다한 이야기 - 09 - 01 Closure</a>
+
+<a href="https://github.com/Kevin-Lee/modern-java-untold/blob/master/src/main/java/cc/kevinlee/modernjava/e09_closure" target="_blank">관련 소스 (클릭!)</a>
+
+<a href="https://youtu.be/bKzMl7LKIO0" targe="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 09 - 02 Closure 및 Lambda Expression 내부 구현" /> 모던 자바 (자바8) 못다한 이야기 - 09 - 02 Closure 및 Lambda Expression 내부 구현</a>
 
 
 더 추가될 예정입니다.
