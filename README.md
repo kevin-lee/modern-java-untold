@@ -130,12 +130,17 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 
 ### 10. Higher-Order Function (HOF, 고차 함수 혹은 고계 함수)
 
-<a href="https://youtu.be/7jvhfVGzKG4" target="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 09 - 01 Closure" /> 모던 자바 (자바8) 못다한 이야기 - 10 - Higher-Order Function</a>
+<a href="https://youtu.be/7jvhfVGzKG4" target="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 10 - Higher-Order Function" /> 모던 자바 (자바8) 못다한 이야기 - 10 - Higher-Order Function</a>
 
 <a href="https://github.com/Kevin-Lee/modern-java-untold/blob/master/src/main/java/cc/kevinlee/modernjava/ep10_higher_order_function" target="_blank">관련 소스 (클릭!)</a>
 
-### 11. Method Reference (Coming Soon...)
+### 11. Method Reference (In progress)
 
+<a href="https://youtu.be/-TMcXGdhP4Q" target="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 11 (1) - Method Reference" /> 모던 자바 (자바8) 못다한 이야기 - 11 (1) - Method Reference</a>
+
+<a href="https://youtu.be/z085LxzYBbM" target="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 11 (2) - Method Reference 사용예" /> 모던 자바 (자바8) 못다한 이야기 - 11 (2) - Method Reference 사용예</a>
+
+<a href="https://github.com/Kevin-Lee/modern-java-untold/blob/master/src/main/java/cc/kevinlee/modernjava/ep11_method_reference" target="_blank">관련 소스 (클릭!)</a>
 
 더 추가될 예정입니다.
 
