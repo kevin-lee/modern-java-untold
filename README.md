@@ -140,6 +140,9 @@ clone 하셔서 수정을 하지 마시고, 따로 프로젝트 생성을 하시
 
 <a href="https://youtu.be/z085LxzYBbM" target="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 11 (2) - Method Reference 사용예" /> 모던 자바 (자바8) 못다한 이야기 - 11 (2) - Method Reference 사용예</a>
 
+<a href="https://youtu.be/dopLxMpfDIA" target="_blank"><img src="YouTube-social-icon_red_24px.png" alt="Youtube: 모던 자바 (자바8) 못다한 이야기 - 11 (3부) - Method Reference로 Method를 Data처럼" /> 모던 자바 (자바8) 못다한 이야기 - 11 (3부) - Method Reference로 Method를 Data처럼</a>
+
+
 <a href="https://github.com/Kevin-Lee/modern-java-untold/blob/master/src/main/java/cc/kevinlee/modernjava/ep11_method_reference" target="_blank">관련 소스 (클릭!)</a>
 
 더 추가될 예정입니다.
