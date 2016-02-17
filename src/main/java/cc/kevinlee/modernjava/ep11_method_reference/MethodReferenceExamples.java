@@ -99,6 +99,10 @@ public class MethodReferenceExamples {
      * Using Lambda Expression
      */
     final List<Function<Integer, String>> fsL = Arrays.asList(i -> String.valueOf(i * 2));
+//    Eclipse에 버그가 있는지 바로 윗줄의 코드가 정상 컴파일 되지 않는거 같습니다 만약 그럴 경우 아래 코드를 이용해 주세요.
+//    하지만 바로 윗줄 코드는 정상적인 코드입니다. Eclipse 버그 인거 같아요.
+//    final List<Function<Integer, String>> fsL = Arrays.<Function<Integer, String>>asList(i -> String.valueOf(i * 2));
+
     for (final Function<Integer, String> f : fsL) {
       final String result = f.apply(3);
       System.out.println(result);

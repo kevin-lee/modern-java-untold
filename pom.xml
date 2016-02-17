@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>cc.kevinlee</groupId>
+  <artifactId>modern-java-untold</artifactId>
+  <version>1.0</version>
+  <packaging>jar</packaging>
+
+  <name>Modern Java Untold</name>
+  <url>https://github.com/Kevin-Lee/modern-java-untold</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <java.version>1.8</java.version>
+    <junit.version>4.11</junit.version>
+    <test0ster1.version>0.0.6</test0ster1.version>
+  </properties>
+
+  <repositories>
+    <repository>
+      <id>kevin-public-releases</id>
+      <name>Kevin's Public Releases</name>
+      <url>http://dl.bintray.com/kevinlee/maven</url>
+    </repository>
+  </repositories>
+
+  <scm>
+    <connection>scm:git:git@kevin-lee-github:Kevin-Lee/modern-java-untold.git</connection>
+    <developerConnection>scm:git:git@kevin-lee-github:Kevin-Lee/modern-java-untold.git</developerConnection>
+    <url>https://github.com/Kevin-Lee/modern-java-untold</url>
+    <tag>HEAD</tag>
+  </scm>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.1</version>
+        <configuration>
+          <source>${java.version}</source>
+          <target>${java.version}</target>
+          <encoding>${project.build.sourceEncoding}</encoding>
+        </configuration>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-source-plugin</artifactId>
+        <version>2.1.2</version>
+        <executions>
+          <execution>
+            <id>attach-sources</id>
+            <goals>
+              <goal>jar</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-release-plugin</artifactId>
+        <version>2.5.1</version>
+        <configuration>
+          <autoVersionSubmodules>true</autoVersionSubmodules>
+          <releaseProfiles>releases</releaseProfiles>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>${junit.version}</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>cc.kevinlee</groupId>
+      <artifactId>test0ster1</artifactId>
+      <version>${test0ster1.version}</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.assertj</groupId>
+      <artifactId>assertj-core</artifactId>
+      <version>3.0.0</version>
+      <scope>test</scope>
+    </dependency>
+
+
+  </dependencies>
+</project>
